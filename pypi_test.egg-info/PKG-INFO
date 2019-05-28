@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: pypi-test
+Version: 0.1
+Summary: PyPi private repo test
+Home-page: https://github.com/fatalwithin/pypi-test
+Author: Andre
+Author-email: fatalwithin@gmail.com
+License: UNKNOWN
+Description: # pypi-test
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
